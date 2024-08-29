@@ -1,14 +1,9 @@
 ---
 layou: post
-title: Test de moi
-subtitle: Un petit test pour voir
+title: La féminité dans les années 2000 : entre tradition et émancipation
+subtitle: Une décennie de transformation où les femmes redéfinissent leur identité, bousculant les stéréotypes et embrassant de nouvelles formes d'expression.
 published: true
 ---
-Les Monster High, une ligne de poupées lancée par Mattel en 2010, ont marqué une génération de petites filles non seulement par leur esthétique unique, mais aussi par les messages qu'elles véhiculaient. Contrairement aux poupées plus traditionnelles comme les Barbie, qui pouvaient être perçues comme conformistes avec leur beauté stéréotypée et leur style de vie « parfait », les Monster High représentaient des personnages issus de mondes alternatifs, inspirés de monstres classiques comme Dracula, Frankenstein, les loups-garous ou les zombies. Ce concept a permis aux enfants, notamment aux petites filles, de s'identifier à des modèles qui valorisaient la différence et l'individualité, leur offrant ainsi un espace pour s'exprimer en dehors des normes imposées par la société.
+Les années 2000 marquent une période de transformation profonde dans la façon dont la féminité est perçue, vécue et représentée dans la société. Alors que le monde entre dans le nouveau millénaire, les femmes, les médias et la culture populaire revisitent les notions traditionnelles de féminité, tout en embrassant de nouveaux idéaux qui reflètent les évolutions sociales, technologiques et culturelles.
 
-
-Ces poupées, avec leurs apparences non conventionnelles et excentriques, invitaient à embrasser la diversité. Chaque personnage avait ses propres particularités physiques et traits de caractère distinctifs. Certaines étaient vertes, d'autres avaient des cicatrices visibles, des dents pointues ou des yeux d'une couleur peu commune, des éléments qui auraient pu être perçus comme des imperfections dans la société traditionnelle. Pourtant, dans l'univers de Monster High, ces différences étaient célébrées. Cela a ouvert une porte aux petites filles pour qu'elles acceptent leurs propres imperfections et celles des autres, en dehors des standards de beauté habituels.
-
-
-De plus, les Monster High valorisaient la tolérance et le respect des différences. Les personnages venaient de divers horizons et chacun apportait son propre vécu et ses expériences uniques, montrant que ce qui nous rend différents est en fait ce qui nous rend spéciaux. Ce message a particulièrement résonné chez les enfants qui pouvaient se sentir exclus ou différents dans leur vie quotidienne, qu'il s'agisse de leur apparence, de leur personnalité ou même de leurs intérêts.
 
