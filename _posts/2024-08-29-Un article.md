@@ -1,6 +1,6 @@
 ---
 layou: post
-title: La féminité dans les années 2000 : entre tradition et émancipation
+title: La féminité dans les années 2000
 subtitle: Une décennie de transformation
 published: true
 ---
